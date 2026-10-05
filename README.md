@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.png" alt="AI Travel Planning System using LangGraph" width="100%" />
+<img src="./assets/banner.svg" alt="AI Travel Planning System using LangGraph" width="100%" />
 
 # AI Travel Planning System using LangGraph
 
